@@ -1,4 +1,4 @@
-Car Price Prediction using Machine Learning
+🚗 Car Price Prediction using Machine Learning
 
 This project is a Car Price Prediction System built using Python and Machine Learning.
 The model predicts the resale price of a used car based on features like company, model, year, fuel type, and kilometers driven.
